@@ -1,6 +1,6 @@
 # vue-rps
 
-# Live demo <a href="https://vuetikorps.netlify.app"></a>
+# Live demo <a href="https://vuetikorps.netlify.app">Here</a>
 
 ## Project setup
 ```
